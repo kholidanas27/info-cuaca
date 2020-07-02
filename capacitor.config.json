@@ -1,0 +1,13 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "InfoCuaca_18.01.4207",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
