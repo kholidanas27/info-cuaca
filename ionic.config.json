@@ -1,7 +1,5 @@
 {
-  "name": "InfoCuaca_18.01.4207",
-  "integrations": {
-    "capacitor": {}
-  },
+  "name": "LihatCuacaDulu",
+  "integrations": {},
   "type": "react"
 }
